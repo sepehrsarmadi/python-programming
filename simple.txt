@@ -1,0 +1,4 @@
+Before we input the file, we might want to inspect the file. 
+Of course we can go back to the initial iPython screen to look at the file. 
+With iPython notebook we can inspect a file without leaving our working space. 
+We may use command line after the ! notation
